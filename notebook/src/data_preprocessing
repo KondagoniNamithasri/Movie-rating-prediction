@@ -16,6 +16,4 @@ def load_and_preprocess_data(file_path):
     
     return data
 
-# Example usage:
-# file_path = 'path_to_your_data.csv'
-# data = load_and_preprocess_data(file_path)
+
